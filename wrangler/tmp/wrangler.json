@@ -6,7 +6,7 @@
   "usage_model": "unbound",
   "env": {
     "production": {
-      "route": "https://your-proxy.yourdomain.workers.dev/*",
+      "route": "https://canada-governance-watch-proxy.yourdomain.workers.dev/*",
       "vars": {}
     }
   }
