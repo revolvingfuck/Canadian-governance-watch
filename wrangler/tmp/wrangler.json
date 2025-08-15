@@ -1,0 +1,13 @@
+{
+  "name": "canada-governance-watch-proxy",
+  "main": "src/worker.js",
+  "compatibility_date": "2024-06-01",
+  "workers_dev": true,
+  "usage_model": "unbound",
+  "env": {
+    "production": {
+      "route": "https://your-proxy.yourdomain.workers.dev/*",
+      "vars": {}
+    }
+  }
+}
